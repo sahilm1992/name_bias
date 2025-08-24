@@ -1,6 +1,7 @@
 ### Code for **'What is in a name? Mitigating Name Bias in Text Embedding Similarity via Anonymization'**
 ### Authors: Sahil Manchanda and Pannaga Shivaswamy
 ### Published at ACL Findings 2025.
+### Paper link: https://aclanthology.org/2025.findings-acl.914.pdf
 
 
 
