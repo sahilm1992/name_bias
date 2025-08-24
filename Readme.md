@@ -29,7 +29,7 @@ Download the files present in https://drive.google.com/drive/folders/1RjnTvOZsEg
 ### Semantic Similarity Task 1 
  To run STS experiment run the following codes:
 
-* `Run notebook STS_experiment` :  **_This notebook runs STS Task 1._**  
+* `Run notebook STS_Task_1` :  **_This notebook runs STS Task 1._**  
 
 <br/>
 
