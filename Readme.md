@@ -13,7 +13,7 @@
 Add api keys in `config` and `config_embed`. <br/>
 
 #### Download data files
-  * Download the files present in https://drive.google.com/drive/folders/1RjnTvOZsEgdwgndennxHaQ1Yp61VKQM9?usp=sharing and store inside BENCHMARKING/cmu_book folder *
+Download the files present in https://drive.google.com/drive/folders/1RjnTvOZsEgdwgndennxHaQ1Yp61VKQM9?usp=sharing and store inside BENCHMARKING/cmu_book folder
 
 
 ### Benchmarking  Experiments
