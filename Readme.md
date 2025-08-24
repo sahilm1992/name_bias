@@ -1,4 +1,8 @@
-### Code for **'What is in a name? Mitigating Name Bias in Text Embeddings via Anonymization'**
+### Code for **'What is in a name? Mitigating Name Bias in Text Embedding Similarity via Anonymization'**
+### Authors: Sahil Manchanda and Pannaga Shivaswamy
+### Published at ACL Findings 2025.
+
+
 
 #### Installation 
 `pip install -r requirements.txt`
