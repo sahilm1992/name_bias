@@ -1,0 +1,17 @@
+cohere==5.13.12
+cohere-aws==0.8.18
+google-generativeai==0.8.4
+sentence-transformers==3.4.1
+mteb==1.34.8
+openai==1.35.3
+datasets==2.19.1
+transformers==4.41.2
+numpy==1.23.5
+pandas==1.5.3
+huggingface-hub==0.27.1
+scikit-learn==1.3.0
+scipy==1.11.1
+seaborn==0.12.2
+voyageai==0.3.2
+tqdm==4.65.0
+future==0.18.3
